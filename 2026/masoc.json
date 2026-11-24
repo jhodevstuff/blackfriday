@@ -1,0 +1,14 @@
+{
+  "name": "masoc",
+  "url": "https://apps.apple.com/app/id6777549830",
+  "description": "RAW photo and video editor for iPhone, iPad and Mac with film looks, AI masks and Lightroom preset import, all on device",
+  "category": "media",
+  "platforms": ["mac", "ios", "ipad"],
+  "deal": "Lifetime unlock $45 instead of $69, no code needed",
+  "pricing": "lifetime",
+  "price": { "regular": 69, "sale": 45, "currency": "USD" },
+  "discount": 35,
+  "startDate": "2026-11-24",
+  "endDate": "2026-11-30",
+  "icon": "https://masoc.app/icon-512.png"
+}
